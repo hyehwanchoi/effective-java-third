@@ -6,6 +6,4 @@ public class Code2 {
   public static Code2 getInstance() {
     return INSTANCE;
   }
-
-
 }
